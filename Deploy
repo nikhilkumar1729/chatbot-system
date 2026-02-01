@@ -1,0 +1,8 @@
+There are several types of boxes, like Yes/No, Multiple Choice (left box in above figure)
+Message (right boxes in above figure) and Date-Time, named after the type of user information they are made to capture
+
+Note that for some boxes (like Message and Flag Condition) no input is expected from the user, that is, the flow moves to the next box immediately
+
+Each box is backed by an AI Natural Language Understanding (NLU) module that extracts the necessary information. For example, the Date box extract date and time from the user input
+Assuming it is 1/7/2019 and the user enters “I can come tomorrow at 10 am” the Date box will extract date=1/8/2019 and time=10:00 am
+Hence, if the box has condition “datetime after 1/8/2019 9:00 am” this condition will be matched
