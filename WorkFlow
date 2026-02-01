@@ -1,0 +1,13 @@
+Chatbot flows are structured conversation paths that guide users toward specific goals, such as resolving an issue, completing a task, or accessing information. These flows represent the business logic behind how a chatbot interacts with users, ensuring consistency and clarity throughout the conversation. 
+Each step in the flow is designed to collect user input, make decisions, and deliver outcomes in a seamless and logical sequence.
+
+Well-designed chatbot flows are essential for providing a positive user experience.
+They prevent confusion by ensuring conversations stay organized, minimize frustration by guiding users to their objectives efficiently, and reduce the time spent resolving queries.
+Whether it’s answering a customer’s question, booking an appointment, or automating an internal task, effective flows create smoother, more productive interactions.
+
+Flexibility is critical to chatbot flows, especially when adapting to varied user inputs and unexpected changes. With the Rasa Platform, businesses can design flows that handle real-world complexities. 
+Using tools like Rasa Studio’s Flow Builder, teams can create flows that adjust dynamically to user behavior.
+
+
+The CALM (Conversational AI with Language Models) dialogue system makes flow design easier by letting you map out a user's journey without worrying about every possible way they might stray from the path.
+CALM automatically handles deviations, so you can focus on helping the user rather than restricting their choices. Using Rasa’s no-code tools, businesses can design flows without requiring extensive developer input, accelerating deployment.
