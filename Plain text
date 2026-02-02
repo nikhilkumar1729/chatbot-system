@@ -1,0 +1,6 @@
+chatbot-project/
+├── .env.example       # Template for API keys
+├── .gitignore         # Files to ignore (like .env)
+├── requirements.txt   # Python dependencies
+├── main.py            # Entry point for the application
+└── chatbot.py         # The core logic for the bot
